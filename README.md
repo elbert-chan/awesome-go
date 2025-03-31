@@ -24,7 +24,6 @@
   - [Financial](#financial)
   - [OAUTH2](#oauth2)
   - [Style Guides](#style-guides)
-  - [Referance](#referance)
 
 
 ## Command Line
@@ -130,6 +129,12 @@ Libraries that implement messaging systems.
 - [nats](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 
+Referance
+- [How to build websockets in go](https://yalantis.com/blog/how-to-build-websockets-in-go/)
+（[中文版](https://tonybai.com/2019/09/28/how-to-build-websockets-in-go/)）
+- [Go 社区主流 kafka 客户端简要对比](https://tonybai.com/2022/03/28/the-comparison-of-the-go-community-leading-kakfa-clients/)
+- [依赖 kafka 的 Go 单元测试](https://tonybai.com/2024/01/08/go-unit-testing-deps-on-kafka/)
+
 ## Logging
 
 - [slog](https://go.dev/blog/slog) - Go 1.21 brings structured logging to the standard library.
@@ -150,9 +155,3 @@ Packages for accounting and finance.
 
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
-
-## Referance
-- [How to build websockets in go](https://yalantis.com/blog/how-to-build-websockets-in-go/)
-（[中文版](https://tonybai.com/2019/09/28/how-to-build-websockets-in-go/)）
-- [Go 社区主流 kafka 客户端简要对比](https://tonybai.com/2022/03/28/the-comparison-of-the-go-community-leading-kakfa-clients/)
-- [依赖 kafka 的 Go 单元测试](https://tonybai.com/2024/01/08/go-unit-testing-deps-on-kafka/)
