@@ -137,7 +137,7 @@ Referance
 
 ## Logging
 
-- [slog](https://go.dev/blog/slog) - Go 1.21 brings structured logging to the standard library.
+- [slog](lib/slog.md) - Go 1.21 brings structured logging to the standard library.
 - [zap](https://github.com/uber-go/zap) Blazing fast, structured, leveled logging in Go.
 
 ## Financial
