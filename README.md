@@ -15,8 +15,8 @@
   - [Web Framworks](#web-framworks)
   - [Scrapers](#scrapers)
   - [Testing](#testing)
+    - [framework](#framework)  
     - [fake](#fake)
-    - [framework](#framework)
   - [Job Scheduler](#job-scheduler)
   - [ORM](#orm)
   - [Messaging](#messaging)
@@ -95,13 +95,13 @@ Libraries for making HTTP requests.
 
 ## Testing
 
-### fake
-- [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
-
 ### framework
 - [ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go.
 - [gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library.
 - [biloba](https://github.com/onsi/biloba) - Stable, performant, automated browser testing for Ginkgo.
+
+### fake
+- [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
 
 ## Job Scheduler
 
