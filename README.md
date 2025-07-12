@@ -66,8 +66,7 @@ Packages that help with building Distributed Systems.
 - [go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [kratos-layout](https://github.com/elbert-chan/kratos-layout) - Kratos Project Template.
-- [kratos-mono-repo](https://github.com/codingcn/kratos-mono-repo) - kratos mono repo.
-- [temporal ](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple. Go SDK.
+- [temporal](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple. Go SDK.
 - [redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go.
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs.
 - [dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
