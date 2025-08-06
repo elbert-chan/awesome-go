@@ -101,6 +101,7 @@ Libraries for making HTTP requests.
 - [biloba](https://github.com/onsi/biloba) - Stable, performant, automated browser testing for Ginkgo.
 
 ### lib
+- [iotest](https://pkg.go.dev/testing/iotest) - Std Package iotest implements Readers and Writers useful mainly for testing.
 - [httptest](https://pkg.go.dev/net/http/httptest) - Std Package httptest provides utilities for HTTP testing.
 - [dockertest](https://github.com/ory/dockertest) - Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
