@@ -75,10 +75,10 @@
 
 ## Goroutines
 
-- [ants](https://github.com/panjf2000/ants) – Goroutine pool.
-- [conc](https://github.com/sourcegraph/conc) – A library for safer, structured concurrency.
+- [ants](https://github.com/panjf2000/ants) – Goroutine pool for efficient concurrency in Go.
+- [conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go.
 
-## Networking
+## Networking,
 
 ### Web Framework
 - [gin](https://github.com/gin-gonic/gin) – Web framework.
