@@ -28,7 +28,7 @@
 - [Testing](#testing)
   - [Framework](#framework-1)
   - [Integration](#integration)
-  - [Mocking](#mocking)
+  - [Double](#Double)
 - [Job Scheduler](#job-scheduler)
 - [ORM](#orm)
 - [Messaging](#messaging)
@@ -114,7 +114,7 @@
 - [dockertest](https://github.com/ory/dockertest) – Run integration tests with Docker containers across all platforms.（简洁小巧）
 - [testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Programmatically manage Docker containers for integration tests.（体系全面）
 
-### Mocking
+### Double
 - [moq](https://github.com/matryer/moq) – Generate interface mocks for testing.（gen stub）
 - [mock](https://github.com/uber-go/mock) – Go **mocking framework** with code generation. (gen mock)
 - [gomonkey](https://github.com/agiledragon/gomonkey) – Monkey patching library for unit testing. (monkey patch)
