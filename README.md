@@ -142,8 +142,8 @@
 - [decimal](https://github.com/shopspring/decimal) – Arbitrary-precision decimal arithmetic for Go.
 
 ## OAuth2
-- [oauth2](https://github.com/golang/oauth2) – OAuth2 client. Keys to the kingdom.
-- [oauth2](https://github.com/go-oauth2/oauth2) – OAuth2 server. Gatekeeper mode: ON.
+- [oauth2](https://github.com/golang/oauth2) – OAuth2 client.
+- [oauth2](https://github.com/go-oauth2/oauth2) – OAuth2 server.
 
 ## Idiomatic Go
 - [effective go](https://go.dev/doc/effective_go) – Std Effective go. 👑
