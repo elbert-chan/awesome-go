@@ -132,6 +132,7 @@
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) – Kafka client.
 - [go-queue](https://github.com/zeromicro/go-queue) – Pub/Sub framework.
 - [nats-client](https://github.com/nats-io/nats.go) – NATS client.
+
 ## [Logging](lib/logging.md)
 - [slog](https://pkg.go.dev/log/slog) – Std Package slog provides structured logging. 🏆
 - [zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
