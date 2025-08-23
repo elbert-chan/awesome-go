@@ -61,19 +61,18 @@
 - [kratos-layout](https://github.com/elbert-chan/kratos-layout) – My kratos project template.
 
 ### Distributed Lock
-- [temporal](https://github.com/temporalio/sdk-go) – Durable execution. Make your code live forever.
-- [redsync](https://github.com/go-redsync/redsync) – Redis distributed lock. Hold the line!
+- [redsync](https://github.com/go-redsync/redsync) – Redis distributed lock.
 
 ### Distributed Transaction 
-- [dtm](https://github.com/dtm-labs/dtm) – Distributed transactions. All the ACID you need, without the trip.
+- [dtm](https://github.com/dtm-labs/dtm) – Distributed transactions.
 
 ### Distributed ID
-- [snowflake](https://github.com/bwmarrin/snowflake) – Twitter snowflake IDs. Unique as a snow day.
+- [snowflake](https://github.com/bwmarrin/snowflake) – Twitter snowflake IDs.
 
 ## Goroutines
 
-- [ants](https://github.com/panjf2000/ants) – Goroutine pool. For those who like their concurrency crawling in formation.
-- [conc](https://github.com/sourcegraph/conc) – Structured concurrency. No more goroutine spaghetti.
+- [ants](https://github.com/panjf2000/ants) – Goroutine pool.
+- [conc](https://github.com/sourcegraph/conc) – Structured concurrency.
 
 ## Networking
 
@@ -92,11 +91,11 @@
 ## Crawler
 
 ### Framework
-- [colly](https://github.com/gocolly/colly) – Scraper and crawler. Spin your own web.
+- [colly](https://github.com/gocolly/colly) – A fast and elegant web scraping framework for Go.
 
 ### Browser Automation
-- [rod](https://github.com/go-rod/rod) – Web automation. Remote control for the web.
-- [chromedp](https://github.com/chromedp/chromedp) – Chrome automation. Point, click, automate.
+- [rod](https://github.com/go-rod/rod) – Go library for web automation and scraping via DevTools Protocol.
+- [chromedp](https://github.com/chromedp/chromedp) – Fast, simple Go library for driving browsers via Chrome DevTools Protocol.
 
 ## Testing
 
@@ -122,8 +121,8 @@
 - [cron](https://github.com/robfig/cron) – Cron library.
 
 ## ORM
-- [gorm](https://github.com/go-gorm/gorm) – ORM library.
-- [ent](https://github.com/ent/ent) – ORM library. 🏆
+- [gorm](https://github.com/go-gorm/gorm) – Popular Go ORM, simple and feature-rich.
+- [ent](https://github.com/ent/ent) – Schema-as-code framework, type-safe and scalable. 🏆
 
 ## Messaging
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) – Kafka client.
