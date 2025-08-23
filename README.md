@@ -78,7 +78,7 @@
 - [ants](https://github.com/panjf2000/ants) – Goroutine pool for efficient concurrency in Go.
 - [conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go.
 
-## Networking  
+## [Networking](./lib/networking.md)  
 
 ### Web Framework
 - [gin](https://github.com/gin-gonic/gin) – Web framework.
@@ -128,7 +128,7 @@
 - [gorm](https://github.com/go-gorm/gorm) – Popular Go ORM, simple and feature-rich.
 - [ent](https://github.com/ent/ent) – Schema-as-code framework, type-safe and scalable. 🏆
 
-## Messaging
+## [Messaging](./lib/messaging.md)
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) – Kafka client.
 - [go-queue](https://github.com/zeromicro/go-queue) – Pub/Sub framework.
 - [nats-client](https://github.com/nats-io/nats.go) – NATS client.
