@@ -119,18 +119,16 @@
 - [gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator with 310+ functions. (gen fake)
 
 ## Job Scheduler
-- [cron](https://github.com/robfig/cron) – Cron library. Schedule like a boss.
-- [temporal](https://github.com/temporalio/temporal) – Workflow service. Make time your ally.
+- [cron](https://github.com/robfig/cron) – Cron library.
 
 ## ORM
-- [gorm](https://github.com/go-gorm/gorm) – ORM library. Map your objects, rule your data.
-- [ent](https://github.com/ent/ent) – Entity framework. Entities with attitude.
+- [gorm](https://github.com/go-gorm/gorm) – ORM library.
+- [ent](https://github.com/ent/ent) – ORM library. 🏆
 
 ## Messaging
-- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) – Kafka client. Stream like you mean it.
-- [go-queue](https://github.com/zeromicro/go-queue) – Pub/Sub framework. Line up your messages.
-- [nats-client](https://github.com/nats-io/nats.go) – NATS client. Fast and lightweight messaging.
-
+- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) – Kafka client.
+- [go-queue](https://github.com/zeromicro/go-queue) – Pub/Sub framework.
+- [nats-client](https://github.com/nats-io/nats.go) – NATS client.
 ## [Logging](lib/logging.md)
 - [slog](https://pkg.go.dev/log/slog) – Std Package slog provides structured logging. 🏆
 - [zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
