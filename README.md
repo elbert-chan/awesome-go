@@ -67,21 +67,20 @@
 - [dtm](https://github.com/dtm-labs/dtm) – Distributed transactions.
 
 ### Distributed ID
-- [snowflake](https://github.com/bwmarrin/snowflake) – Twitter snowflake IDs.
+- [snowflake](https://github.com/bwmarrin/snowflake) – A package to generate or parse Twitter snowflake IDs.
 
 ## Goroutines
 
 - [ants](https://github.com/panjf2000/ants) – Goroutine pool.
-- [conc](https://github.com/sourcegraph/conc) – Structured concurrency.
+- [conc](https://github.com/sourcegraph/conc) – A library for safer, structured concurrency.
 
 ## Networking
 
 ### Web Framework
-- [gin](https://github.com/gin-gonic/gin) – Web framework. Fast, tasty, and a little spicy.
-- [kratos](https://github.com/go-kratos/kratos) – Microservices framework. Yes, it's so good it’s here twice.
+- [gin](https://github.com/gin-gonic/gin) – Web framework.
 
 ### HTTP Client
-- [resty](https://github.com/go-resty/resty) – HTTP/REST client. Make HTTP fun again.
+- [resty](https://github.com/go-resty/resty) – HTTP/REST/SSE client.
 
 ### Websocket
 - [gorilla/websocket](https://github.com/gorilla/websocket) – WebSocket library. King Kong of real-time.
