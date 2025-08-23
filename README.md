@@ -78,10 +78,11 @@
 - [ants](https://github.com/panjf2000/ants) – Goroutine pool for efficient concurrency in Go.
 - [conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go.
 
-## Networking,
+## Networking  
 
 ### Web Framework
 - [gin](https://github.com/gin-gonic/gin) – Web framework.
+- [hertz](https://github.com/cloudwego/hertz) - High-performance, extensible Go HTTP framework.
 
 ### HTTP Client
 - [resty](https://github.com/go-resty/resty) – HTTP/REST/SSE client.
