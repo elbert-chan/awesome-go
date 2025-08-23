@@ -140,6 +140,6 @@
 - [oauth2](https://github.com/go-oauth2/oauth2) – OAuth2 server. Gatekeeper mode: ON.
 
 ## Idiomatic Go
-- [effective go](https://go.dev/doc/effective_go) – 👑
+- [effective go](https://go.dev/doc/effective_go) – Std Effective go. 👑
 - [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide. 🏆
 - [google go styleguide](https://google.github.io/styleguide/go/) – Google’s Go wisdom. 🏆
