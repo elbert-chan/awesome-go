@@ -83,9 +83,9 @@
 - [resty](https://github.com/go-resty/resty) – HTTP/REST/SSE client.
 
 ### Websocket
-- [gorilla/websocket](https://github.com/gorilla/websocket) – WebSocket library. King Kong of real-time.
-- [gobwas/ws](https://github.com/gobwas/ws) – Lightweight WebSocket. Small but mighty.
-- [melody](https://github.com/olahol/melody) – Minimalist WebSocket framework. Hum along with your data.
+- [gorilla/websocket](https://github.com/gorilla/websocket) – Reliable Go WebSocket library.（更通用）
+- [gobwas/ws](https://github.com/gobwas/ws) – High-performance, low-level WebSocket library.（更低层）
+- [melody](https://github.com/olahol/melody) – Minimalist WebSocket framework for Go.
 
 ## Crawler
 
