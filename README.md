@@ -14,9 +14,9 @@
 - [Date & Time](#date--time)
 - [Distributed Systems](#distributed-systems)
   - [Microservice Arch](#microservices-arch)
+  - [Distributed ID](#distributed-id)
   - [Distributed Lock](#distributed-lock)
   - [Distributed Transaction](#distributed-transaction)
-  - [Distributed ID](#distributed-id)
 - [Goroutines](#goroutines)
 - [Networking](#networking)
   - [Web Framework](#web-framework)
@@ -64,14 +64,14 @@
 - [kratos](https://github.com/go-kratos/kratos) – Cloud-native microservices framework with gRPC and HTTP.
 - [kratos-layout](https://github.com/elbert-chan/kratos-layout) – My kratos project template.
 
+### Distributed ID
+- [snowflake](https://github.com/bwmarrin/snowflake) – A package to generate or parse Twitter snowflake IDs.
+
 ### Distributed Lock
 - [redsync](https://github.com/go-redsync/redsync) – Redis distributed lock.
 
 ### Distributed Transaction 
 - [dtm](https://github.com/dtm-labs/dtm) – Distributed transactions.
-
-### Distributed ID
-- [snowflake](https://github.com/bwmarrin/snowflake) – A package to generate or parse Twitter snowflake IDs.
 
 ## Goroutines
 
