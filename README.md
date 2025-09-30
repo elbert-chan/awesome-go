@@ -9,7 +9,7 @@
 - [SOLID](#solid)
 - [Terminal APP](#terminal-app)
   - [CLI Framework](#cli-framework)
-  - [TUI Framework](#tui-framwork)
+  - [TUI Framework](#tui-framework)
 - [Configuration](#configuration)
 - [Date & Time](#date--time)
 - [Distributed Systems](#distributed-systems)
