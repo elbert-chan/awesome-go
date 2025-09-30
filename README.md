@@ -7,9 +7,9 @@
 ## Table of Contents
 
 - [SOLID](#solid)
-- [Command Line](#command-line)
-  - [Standard CLI](#standard-cli)
-  - [Console UI](#console-ui)
+- [Terminal APP](#terminal-app)
+  - [CLI Framework](#cli-framework)
+  - [TUI Framework](#tui-framwork)
 - [Configuration](#configuration)
 - [Date & Time](#date--time)
 - [Distributed Systems](#distributed-systems)
@@ -40,13 +40,13 @@
 ## SOLID
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
-## Command Line
+## Terminal APP
 
-### Standard CLI
+### CLI Framework
 - [cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions.
 - [pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, POSIX/GNU-style.
 
-### Console UI
+### TUI Framework
 - [bubbletea](https://github.com/charmbracelet/bubbletea) – A powerful little TUI framework.
 - [bubbles](https://github.com/charmbracelet/bubbles) – TUI components for bubbletea.
 - [lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts.
