@@ -1,7 +1,6 @@
 # Awesome Go
 
-> My handpicked collection of Go libraries, frameworks, and tools — only the coolest, most useful, and most delightful.  
-> I include libraries I’ve actually used, love, or wish I wrote. Maintained and updated as I discover new gems!
+> My handpicked collection of Go libraries, frameworks, and tools.
 
 ---
 ## Table of Contents
