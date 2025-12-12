@@ -37,6 +37,7 @@
 - [Idiomatic Go](#idiomatic-go)
 
 ## SOLID
+- [Google AIP](https://google.aip.dev/) - AIPs are lots of documents on how Google does APIs.
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
 ## Terminal APP
