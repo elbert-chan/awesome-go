@@ -118,7 +118,7 @@
 ### Double
 - [moq](https://github.com/matryer/moq) – Generate interface mocks for testing.（gen stub）
 - [mock](https://github.com/uber-go/mock) – Go **mocking framework** with code generation. (gen mock)
-- [gomonkey](https://github.com/agiledragon/gomonkey) – Monkey patching library for unit testing. (monkey patch)
+- [gomonkey](https://github.com/agiledragon/gomonkey) – Monkey patching library for unit testing. (monkey patching)
 - [gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator with 310+ functions. (gen fake)
 
 ## Job Scheduler
