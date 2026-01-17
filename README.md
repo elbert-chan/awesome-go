@@ -6,6 +6,11 @@
 ## Table of Contents
 
 - [SOLID](#solid)
+- [Utilities](#utilities)
+- [Testing](#testing)
+  - [Framework](#framework-1)
+  - [Integration](#integration)
+  - [Double](#double)
 - [Terminal APP](#terminal-app)
   - [CLI Framework](#cli-framework)
   - [TUI Framework](#tui-framework)
@@ -24,10 +29,6 @@
 - [Crawler](#crawler)
   - [Framework](#framework)
   - [Browser Automation](#browser-automation)
-- [Testing](#testing)
-  - [Framework](#framework-1)
-  - [Integration](#integration)
-  - [Double](#Double)
 - [Job Scheduler](#job-scheduler)
 - [ORM](#orm)
 - [Messaging](#messaging)
@@ -39,6 +40,29 @@
 ## SOLID
 - [Google AIP](https://google.aip.dev/) - AIPs are lots of documents on how Google does APIs.
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
+
+## Utilities
+- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...).
+
+## Testing
+
+### Framework
+- [ginkgo](https://github.com/onsi/ginkgo) – Expressive BDD testing framework with Gomega matchers. 🏆
+- [gomega](https://github.com/onsi/gomega) – Ginkgo's Preferred Matcher Library.
+- [biloba](https://github.com/onsi/biloba) – Stable, performant, automated browser testing for Ginkgo.
+- [chromedp](https://github.com/chromedp/chromedp) – Drive Chrome browsers via DevTools Protocol without dependencies.
+
+### Integration
+- [iotest](https://pkg.go.dev/testing/iotest) – Std Package iotest implements Readers and Writers useful mainly for testing.
+- [httptest](https://pkg.go.dev/net/http/httptest) – Std Package httptest provides utilities for HTTP testing.
+- [dockertest](https://github.com/ory/dockertest) – Run integration tests with Docker containers across all platforms.（简洁小巧）
+- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Programmatically manage Docker containers for integration tests.（体系全面）
+
+### Double
+- [moq](https://github.com/matryer/moq) – Generate interface mocks for testing.（gen stub）
+- [gomonkey](https://github.com/agiledragon/gomonkey) – Monkey patching library for unit testing. (monkey patching)
+- [mock](https://github.com/uber-go/mock) – Go **mocking framework** with code generation. (gen mock)
+- [gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator with 310+ functions. (gen fake)
 
 ## Terminal APP
 
@@ -100,26 +124,6 @@
 ### Browser Automation
 - [rod](https://github.com/go-rod/rod) – Go library for web automation and scraping via DevTools Protocol.
 - [chromedp](https://github.com/chromedp/chromedp) – Fast, simple Go library for driving browsers via Chrome DevTools Protocol.
-
-## Testing
-
-### Framework
-- [ginkgo](https://github.com/onsi/ginkgo) – Expressive BDD testing framework with Gomega matchers. 🏆
-- [gomega](https://github.com/onsi/gomega) – Ginkgo's Preferred Matcher Library.
-- [biloba](https://github.com/onsi/biloba) – Stable, performant, automated browser testing for Ginkgo.
-- [chromedp](https://github.com/chromedp/chromedp) – Drive Chrome browsers via DevTools Protocol without dependencies.
-
-### Integration
-- [iotest](https://pkg.go.dev/testing/iotest) – Std Package iotest implements Readers and Writers useful mainly for testing.
-- [httptest](https://pkg.go.dev/net/http/httptest) – Std Package httptest provides utilities for HTTP testing.
-- [dockertest](https://github.com/ory/dockertest) – Run integration tests with Docker containers across all platforms.（简洁小巧）
-- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Programmatically manage Docker containers for integration tests.（体系全面）
-
-### Double
-- [moq](https://github.com/matryer/moq) – Generate interface mocks for testing.（gen stub）
-- [mock](https://github.com/uber-go/mock) – Go **mocking framework** with code generation. (gen mock)
-- [gomonkey](https://github.com/agiledragon/gomonkey) – Monkey patching library for unit testing. (monkey patching)
-- [gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator with 310+ functions. (gen fake)
 
 ## Job Scheduler
 - [cron](https://github.com/robfig/cron) – Cron library.
