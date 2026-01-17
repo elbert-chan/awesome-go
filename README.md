@@ -43,6 +43,7 @@
 
 ## Utilities
 - [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...). 🏆
+- [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go. 🏅
 
 ## Testing
 
