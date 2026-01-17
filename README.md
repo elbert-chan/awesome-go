@@ -42,7 +42,7 @@
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
 ## Utilities
-- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...).
+- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...). 🏆
 
 ## Testing
 
