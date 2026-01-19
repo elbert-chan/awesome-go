@@ -15,7 +15,6 @@
   - [CLI Framework](#cli-framework)
   - [TUI Framework](#tui-framework)
 - [Configuration](#configuration)
-- [Date & Time](#date--time)
 - [Distributed Systems](#distributed-systems)
   - [Microservice Arch](#microservices-arch)
   - [Distributed ID](#distributed-id)
@@ -42,8 +41,13 @@
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
 ## Utilities
+
+### 1. data operator
 - [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...). 🏆
 - [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go. 🏅
+
+### 2. date & time
+- [carbon](https://github.com/dromara/carbon) – Simple, developer-friendly time package with 100% test coverage.
 
 ## Testing
 
@@ -78,9 +82,6 @@
 
 ## Configuration
 - [viper](https://github.com/spf13/viper) – A complete configuration solution for Go apps. 
-
-## Date & Time
-- [carbon](https://github.com/dromara/carbon) – Simple, developer-friendly time package with 100% test coverage.
 
 ## Distributed Systems
 
