@@ -35,12 +35,12 @@
 
 
 ## Go
-- [effective go](https://go.dev/doc/effective_go) – Std Effective go.
+- [effective go](https://go.dev/doc/effective_go) – Std Effective Go.
 - [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide.
 - [google go styleguide](https://google.github.io/styleguide/go/) – Google’s style guide.
 
 ## SOLID
-- [Google AIP](https://google.aip.dev/) - AIPs are lots of documents on how Google does APIs.
+- [Google AIP](https://google.aip.dev/) - How Google does APIs.
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
 ## Utilities
