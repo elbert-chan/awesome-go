@@ -30,7 +30,6 @@
 - [ORM](#orm)
 - [Messaging](#messaging)
 - [Logging](#logging)
-- [Financial](#financial)
 - [OAuth2](#oauth2)
 
 
@@ -46,11 +45,14 @@
 ## Utilities
 
 ### 1. data operator
-- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...). 🏆
-- [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go. 🏅
+- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...).
+- [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go.
 
 ### 2. date & time
 - [carbon](https://github.com/dromara/carbon) – Simple, developer-friendly time package with 100% test coverage.
+
+### 3. financial
+- [decimal](https://github.com/shopspring/decimal) – Arbitrary-precision decimal arithmetic for Go.
 
 ## Testing
 
@@ -146,9 +148,6 @@
 - [slog](https://pkg.go.dev/log/slog) – Std Package slog provides structured logging. 🏆
 - [zap](https://github.com/uber-go/zap) – Blazing fast, structured, leveled logging in Go.
 - [lumberjack](https://github.com/natefinch/lumberjack) - A log rolling package for Go. 🏆
-
-## Financial
-- [decimal](https://github.com/shopspring/decimal) – Arbitrary-precision decimal arithmetic for Go.
 
 ## OAuth2
 - [OAuth2 Client](https://github.com/golang/oauth2) – OAuth2 client.
