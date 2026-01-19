@@ -5,6 +5,7 @@
 ---
 ## Table of Contents
 
+- [Idiomatic Go](#idiomatic-go)
 - [SOLID](#solid)
 - [Utilities](#utilities)
 - [Testing](#testing)
@@ -31,7 +32,12 @@
 - [Logging](#logging)
 - [Financial](#financial)
 - [OAuth2](#oauth2)
-- [Idiomatic Go](#idiomatic-go)
+
+
+## Idiomatic Go
+- [effective go](https://go.dev/doc/effective_go) – Std Effective go.
+- [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide.
+- [google go styleguide](https://google.github.io/styleguide/go/) – Google’s Go wisdom.
 
 ## SOLID
 - [Google AIP](https://google.aip.dev/) - AIPs are lots of documents on how Google does APIs.
@@ -147,8 +153,3 @@
 ## OAuth2
 - [OAuth2 Client](https://github.com/golang/oauth2) – OAuth2 client.
 - [OAuth2 Server](https://github.com/go-oauth2/oauth2) – OAuth2 server.
-
-## Idiomatic Go
-- [effective go](https://go.dev/doc/effective_go) – Std Effective go. 👑
-- [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide. 🏆
-- [google go styleguide](https://google.github.io/styleguide/go/) – Google’s Go wisdom. 🏆
