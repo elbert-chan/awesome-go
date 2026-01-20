@@ -10,22 +10,11 @@
 - [Utilities](#utilities)
 - [Testing](#testing)
 - [Terminal APP](#terminal-app)
-  - [CLI Framework](#cli-framework)
-  - [TUI Framework](#tui-framework)
 - [Configuration](#configuration)
 - [Distributed Systems](#distributed-systems)
-  - [Microservice Arch](#microservices-arch)
-  - [Distributed ID](#distributed-id)
-  - [Distributed Lock](#distributed-lock)
-  - [Distributed Transaction](#distributed-transaction)
 - [Goroutines](#goroutines)
 - [Networking](#networking)
-  - [Web Framework](#web-framework)
-  - [HTTP Client](#http-client)
-  - [Websocket](#websocket)
 - [Crawler](#crawler)
-  - [Framework](#framework)
-  - [Browser Automation](#browser-automation)
 - [Job Scheduler](#job-scheduler)
 - [ORM](#orm)
 - [Messaging](#messaging)
@@ -44,31 +33,31 @@
 
 ## Utilities
 
-### 1. data operator
+### 1. Data Operator
 - [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...).
 - [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go.
 
-### 2. date & time
+### 2. Date Time
 - [carbon](https://github.com/dromara/carbon) – Simple, developer-friendly time package with 100% test coverage.
 
-### 3. financial
+### 3. Financial
 - [decimal](https://github.com/shopspring/decimal) – Arbitrary-precision decimal arithmetic for Go.
 
 ## Testing
 
-### 1. framework
+### 1. Framework
 - [ginkgo](https://github.com/onsi/ginkgo) – Expressive BDD testing framework with Gomega matchers. 🏆
 - [gomega](https://github.com/onsi/gomega) – Ginkgo's Preferred Matcher Library.
 - [biloba](https://github.com/onsi/biloba) – Stable, performant, automated browser testing for Ginkgo.
 - [chromedp](https://github.com/chromedp/chromedp) – Drive Chrome browsers via DevTools Protocol without dependencies.
 
-### 2. integration
+### 2. Integration
 - [iotest](https://pkg.go.dev/testing/iotest) – Std Package iotest implements Readers and Writers useful mainly for testing.
 - [httptest](https://pkg.go.dev/net/http/httptest) – Std Package httptest provides utilities for HTTP testing.
 - [dockertest](https://github.com/ory/dockertest) – Run integration tests with Docker containers across all platforms.（简洁小巧）
 - [testcontainers-go](https://github.com/testcontainers/testcontainers-go) – Programmatically manage Docker containers for integration tests.（体系全面）
 
-### 3. double
+### 3. Double
 - [moq](https://github.com/matryer/moq) – Generate interface mocks for testing.（gen stub）
 - [gomonkey](https://github.com/agiledragon/gomonkey) – Monkey patching library for unit testing. (monkey patching)
 - [mock](https://github.com/uber-go/mock) – Go **mocking framework** with code generation. (gen mock)
@@ -76,11 +65,11 @@
 
 ## Terminal APP
 
-### CLI Framework
+### 1. CLI Framework
 - [cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions.
 - [pflag](https://github.com/spf13/pflag) – Drop-in replacement for Go's flag package, POSIX/GNU-style.
 
-### TUI Framework
+### 2. TUI Framework
 - [bubbletea](https://github.com/charmbracelet/bubbletea) – A powerful little TUI framework.
 - [bubbles](https://github.com/charmbracelet/bubbles) – TUI components for bubbletea.
 - [lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts.
@@ -90,18 +79,18 @@
 
 ## Distributed Systems
 
-### Microservices Arch
+### 1. Microservices Arch
 - [go-kit](https://github.com/go-kit/kit) – Microservices toolkit for Go.
 - [kratos](https://github.com/go-kratos/kratos) – Cloud-native microservices framework with gRPC and HTTP.
 - [kratos-layout](https://github.com/elbert-chan/kratos-layout) – My kratos project template.
 
-### Distributed ID
+### 2. Distributed ID
 - [snowflake](https://github.com/bwmarrin/snowflake) – A package to generate or parse Twitter snowflake IDs.
 
-### Distributed Lock
+### 3. Distributed Lock
 - [redsync](https://github.com/go-redsync/redsync) – Redis distributed lock.
 
-### Distributed Transaction 
+### 4. Distributed Transaction 
 - [dtm](https://github.com/dtm-labs/dtm) – Distributed transactions.
 
 ## Goroutines
@@ -111,24 +100,24 @@
 
 ## [Networking](./lib/networking.md)  
 
-### Web Framework
+### 1. Web Framework
 - [gin](https://github.com/gin-gonic/gin) – Web framework.
 - [hertz](https://github.com/cloudwego/hertz) - High-performance, extensible Go HTTP framework.
 
-### HTTP Client
+### 2. HTTP Client
 - [resty](https://github.com/go-resty/resty) – HTTP/REST/SSE client.
 
-### Websocket
+### 3. Websocket
 - [gorilla/websocket](https://github.com/gorilla/websocket) – Reliable Go WebSocket library.（更通用）
 - [gobwas/ws](https://github.com/gobwas/ws) – High-performance, low-level WebSocket library.（更低层）
 - [melody](https://github.com/olahol/melody) – Minimalist WebSocket framework for Go.
 
 ## Crawler
 
-### Framework
+### 1. Framework
 - [colly](https://github.com/gocolly/colly) – A fast and elegant web scraping framework for Go.
 
-### Browser Automation
+### 2. Browser Automation
 - [rod](https://github.com/go-rod/rod) – Go library for web automation and scraping via DevTools Protocol.
 - [chromedp](https://github.com/chromedp/chromedp) – Fast, simple Go library for driving browsers via Chrome DevTools Protocol.
 
