@@ -10,7 +10,6 @@
 - [Utilities](#utilities)
 - [Testing](#testing)
 - [Terminal APP](#terminal-app)
-- [Configuration](#configuration)
 - [Distributed Systems](#distributed-systems)
 - [Goroutines](#goroutines)
 - [Networking](#networking)
@@ -37,10 +36,13 @@
 - [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...).
 - [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go.
 
-### 2. Date Time
+### 2. Configuration
+- [viper](https://github.com/spf13/viper) – A complete configuration solution for Go apps. 
+
+### 3. Date Time
 - [carbon](https://github.com/dromara/carbon) – Simple, developer-friendly time package with 100% test coverage.
 
-### 3. Financial
+### 4. Financial
 - [decimal](https://github.com/shopspring/decimal) – Arbitrary-precision decimal arithmetic for Go.
 
 ## Testing
@@ -73,9 +75,6 @@
 - [bubbletea](https://github.com/charmbracelet/bubbletea) – A powerful little TUI framework.
 - [bubbles](https://github.com/charmbracelet/bubbles) – TUI components for bubbletea.
 - [lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts.
-
-## Configuration
-- [viper](https://github.com/spf13/viper) – A complete configuration solution for Go apps. 
 
 ## Distributed Systems
 
