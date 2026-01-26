@@ -29,7 +29,7 @@
 - [google code review std](https://google.github.io/eng-practices/review/reviewer/standard.html) - Google google code review std.
 
 ## SOLID
-- [Google AIP](https://google.aip.dev/) - How Google does APIs.
+- [Google API](https://google.aip.dev/) - How Google does APIs.
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
 ## Utilities
