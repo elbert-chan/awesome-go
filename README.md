@@ -25,6 +25,8 @@
 - [effective go](https://go.dev/doc/effective_go) – Std Effective Go.
 - [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide.
 - [google go styleguide](https://google.github.io/styleguide/go/) – Google’s style guide.
+- [go code review comments](https://go.dev/wiki/CodeReviewComments) - Go Code Review Comments.
+- [google code review std](https://google.github.io/eng-practices/review/reviewer/standard.html) - Google google code review std.
 
 ## SOLID
 - [Google AIP](https://google.aip.dev/) - How Google does APIs.
