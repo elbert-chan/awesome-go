@@ -24,12 +24,12 @@
 ## Go
 
 ### 1. Style Guide
-- [effective go](https://go.dev/doc/effective_go) – Std Effective Go.
+- [effective go](https://go.dev/doc/effective_go) – Std effective Go.
 - [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide.
 - [google go styleguide](https://google.github.io/styleguide/go/) – Google’s style guide.
 
 ### 2. Code Review
-- [go code review comments](https://go.dev/wiki/CodeReviewComments) - Go Code Review Comments.
+- [go code review comments](https://go.dev/wiki/CodeReviewComments) - Go code review comments.
 - [google code review std](https://google.github.io/eng-practices/review/reviewer/standard.html) - Google code review std.
 
 ### 3. API Design
