@@ -22,14 +22,22 @@
 
 
 ## Go
+
+### 1. Style Guide
 - [effective go](https://go.dev/doc/effective_go) – Std Effective Go.
 - [uber go guide](https://github.com/uber-go/guide) – Uber’s style guide.
 - [google go styleguide](https://google.github.io/styleguide/go/) – Google’s style guide.
+
+### 2. Code Review
 - [go code review comments](https://go.dev/wiki/CodeReviewComments) - Go Code Review Comments.
-- [google code review std](https://google.github.io/eng-practices/review/reviewer/standard.html) - Google google code review std.
+- [google code review std](https://google.github.io/eng-practices/review/reviewer/standard.html) - Google code review std.
+
+### 3. API Design
+- [Google API](https://google.aip.dev/) - How Google does APIs.
+
 
 ## SOLID
-- [Google API](https://google.aip.dev/) - How Google does APIs.
+
 - [wire](https://github.com/google/wire) – Compile-time Dependency Injection for Go.
 
 ## Utilities
