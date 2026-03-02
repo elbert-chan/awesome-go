@@ -86,6 +86,9 @@
 - [bubbles](https://github.com/charmbracelet/bubbles) – TUI components for bubbletea.
 - [lipgloss](https://github.com/charmbracelet/lipgloss) – Style definitions for nice terminal layouts.
 
+### 3. Release Engineer
+- [goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified.
+
 ## Distributed Systems
 
 ### 1. Microservices Arch
