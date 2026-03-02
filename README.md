@@ -75,7 +75,7 @@
 - [mock](https://github.com/uber-go/mock) – Go **mocking framework** with code generation. (gen mock)
 - [gofakeit](https://github.com/brianvoe/gofakeit) – Random fake data generator with 310+ functions. (gen fake)
 
-## Terminal APP
+## [Terminal APP](./lib/terminal-app.md)
 
 ### 1. CLI Framework
 - [cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions.
