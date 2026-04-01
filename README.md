@@ -5,7 +5,7 @@
 ---
 ## Table of Contents
 
-- [Go](#go)
+- [Design](#design)
 - [SOLID](#solid)
 - [Utilities](#utilities)
 - [Testing](#testing)
@@ -21,7 +21,7 @@
 - [OAuth2](#oauth2)
 
 
-## Go
+## Design
 
 ### 1. Style Guide
 - [effective go](https://go.dev/doc/effective_go) – Std effective Go.
