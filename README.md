@@ -60,7 +60,7 @@
 ### 1. Framework
 - [ginkgo](https://github.com/onsi/ginkgo) – Expressive BDD testing framework with Gomega matchers. 🏆
 - [gomega](https://github.com/onsi/gomega) – Ginkgo's Preferred Matcher Library.
-- [biloba](https://github.com/onsi/biloba) – Stable, performant, automated browser testing for Ginkgo.
+- [playwrite](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation. TS 🏆
 - [chromedp](https://github.com/chromedp/chromedp) – Drive Chrome browsers via DevTools Protocol without dependencies.
 
 ### 2. Integration
