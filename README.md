@@ -10,9 +10,9 @@
 - [Utilities](#utilities)
 - [Testing](#testing)
 - [Terminal APP](#terminal-app)
+- [Web APP](#web-app)
 - [Distributed Systems](#distributed-systems)
 - [Goroutines](#goroutines)
-- [Networking](#networking)
 - [Crawler](#crawler)
 - [Job Scheduler](#job-scheduler)
 - [ORM](#orm)
@@ -90,6 +90,20 @@
 ### 3. Release Engineer
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified.
 
+## [Web APP](./lib/web-app.md)
+
+### 1. Web Framework
+- [gin](https://github.com/gin-gonic/gin) – Web framework.
+- [hertz](https://github.com/cloudwego/hertz) - High-performance, extensible Go HTTP framework.
+
+### 2. HTTP Client
+- [resty](https://github.com/go-resty/resty) – HTTP/REST/SSE client.
+
+### 3. Websocket
+- [gorilla/websocket](https://github.com/gorilla/websocket) – Reliable Go WebSocket library.（更通用）
+- [gobwas/ws](https://github.com/gobwas/ws) – High-performance, low-level WebSocket library.（更低层）
+- [melody](https://github.com/olahol/melody) – Minimalist WebSocket framework for Go.
+
 ## Distributed Systems
 
 ### 1. Microservices Arch
@@ -110,20 +124,6 @@
 
 - [ants](https://github.com/panjf2000/ants) – Goroutine pool for efficient concurrency in Go.
 - [conc](https://github.com/sourcegraph/conc) – Better structured concurrency for go.
-
-## [Networking](./lib/networking.md)  
-
-### 1. Web Framework
-- [gin](https://github.com/gin-gonic/gin) – Web framework.
-- [hertz](https://github.com/cloudwego/hertz) - High-performance, extensible Go HTTP framework.
-
-### 2. HTTP Client
-- [resty](https://github.com/go-resty/resty) – HTTP/REST/SSE client.
-
-### 3. Websocket
-- [gorilla/websocket](https://github.com/gorilla/websocket) – Reliable Go WebSocket library.（更通用）
-- [gobwas/ws](https://github.com/gobwas/ws) – High-performance, low-level WebSocket library.（更低层）
-- [melody](https://github.com/olahol/melody) – Minimalist WebSocket framework for Go.
 
 ## Crawler
 
