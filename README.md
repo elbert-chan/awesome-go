@@ -43,8 +43,8 @@
 ## Utilities
 
 ### 1. Data Operator
-- [go-linq](https://github.com/ahmetb/go-linq) A powerful language integrated query (LINQ) library for Go.
-- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...).
+- [go-linq](https://github.com/ahmetb/go-linq) A powerful language integrated query (LINQ) library for Go. 🏆
+- [lo](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...). 🏆
 - [ro](https://github.com/samber/ro) - Streams & Reactive Programming paradigm for Go.
 
 ### 2. Configuration
