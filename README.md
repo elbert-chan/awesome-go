@@ -2,7 +2,6 @@
 
 > My handpicked collection of Go libraries, frameworks, and tools.
 
----
 ## Table of Contents
 
 - [Design](#design)
