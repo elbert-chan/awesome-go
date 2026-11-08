@@ -11,6 +11,7 @@
 - [Testing](#testing)
 - [Terminal APP](#terminal-app)
 - [Web APP](#web-app)
+- [GUI APP](#gui-app)
 - [Distributed Systems](#distributed-systems)
 - [Goroutines](#goroutines)
 - [Crawler](#crawler)
@@ -113,6 +114,11 @@
 - [gorilla/websocket](https://github.com/gorilla/websocket) – Reliable Go WebSocket library.（更通用）
 - [gobwas/ws](https://github.com/gobwas/ws) – High-performance, low-level WebSocket library.（更低层）
 - [melody](https://github.com/olahol/melody) – Minimalist WebSocket framework for Go.
+
+## [GUI APP](./lib/gui-app.md)
+
+### 1. Desktop Framework
+- [wails](https://github.com/wailsapp/wails) – Build desktop apps with a Go backend and system WebView frontend (HTML/CSS/JS). 🏆
 
 ## Distributed Systems
 
